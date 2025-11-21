@@ -1,0 +1,52 @@
+# Title: September 2024 - August 2025 Contiguous U.S. Statewide Average Temperature
+# Units: Degrees Fahrenheit
+# Note: Period of Record: 130 Years
+ID,Name,Value,Rank,Anomaly (1901-2000 base period),1901-2000 Mean
+1,Alabama,65,122,1.9,63.1
+2,Arizona,62.7,128,3.3,59.4
+3,Arkansas,62.7,124,2.3,60.4
+4,California,60.4,127,3,57.4
+5,Colorado,47.4,124,2.8,44.6
+6,Connecticut,51,122,2.9,48
+7,Delaware,56.7,116,2.5,54.2
+8,Florida,72.7,125,2.6,70.1
+9,Georgia,65.5,125,2.1,63.4
+10,Idaho,45.4,126,2.8,42.6
+11,Illinois,54.1,121,2.5,51.6
+12,Indiana,53.7,121,2.4,51.3
+13,Iowa,50.1,117,2.6,47.5
+14,Kansas,56,115,1.9,54.1
+15,Kentucky,57.8,124,2.3,55.5
+16,Louisiana,69,128,2.6,66.4
+17,Maine,43.2,122,3.1,40.1
+18,Maryland,56.4,120,2.6,53.8
+19,Massachusetts,49.8,119,2.9,46.9
+20,Michigan,46.7,120,3.2,43.6
+21,Minnesota,43.7,121,3.6,40.1
+22,Mississippi,66.3,128,2.7,63.6
+23,Missouri,56.5,117,2,54.5
+24,Montana,44,119,2.8,41.1
+25,Nebraska,51,121,2.6,48.4
+26,Nevada,52.6,127,3.1,49.5
+27,New Hampshire,45.2,119,2.8,42.3
+28,New Jersey,54.4,118,2.9,51.5
+29,New Mexico,55.8,127,2.9,52.9
+30,New York,47.2,119,2.7,44.5
+31,North Carolina,60.6,121,2.1,58.5
+32,North Dakota,42.3,113,2.6,39.7
+33,Ohio,53,121,2.5,50.4
+34,Oklahoma,61.5,117,1.8,59.7
+35,Oregon,49.2,126,2.8,46.5
+36,Pennsylvania,50.4,115,2.3,48.1
+37,Rhode Island,51.7,119,3.1,48.6
+38,South Carolina,64.3,122,1.9,62.4
+39,South Dakota,47.2,118,2.7,44.6
+40,Tennessee,60,125,2.3,57.7
+41,Texas,67.7,127,3,64.7
+42,Utah,51.3,129,3.7,47.5
+43,Vermont,44.4,121,3,41.3
+44,Virginia,57.2,121,2.3,54.8
+45,Washington,48.7,124,2.6,46.1
+46,West Virginia,53.8,122,2.2,51.6
+47,Wisconsin,45.5,119,3.1,42.4
+48,Wyoming,43.9,126,3.1,40.8
